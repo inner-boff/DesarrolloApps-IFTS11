@@ -1,4 +1,4 @@
-# appfirebase
+# DesarrolloApps-IFTS11
 Repositorio compartido de pruebas para el TP de desarollo ed apps - IFTS11
 Creado en Ionic
 Autenticación de usuarios con Firebase
